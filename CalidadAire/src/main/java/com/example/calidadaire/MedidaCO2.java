@@ -1,5 +1,7 @@
 package com.example.calidadaire;
 
+import java.util.List;
+
 /*
 Tiempo en milisegundos en que se realizó la lectura.
 o    Concentración en ppm de CO2 en el Laboratorio de Electrónica.
